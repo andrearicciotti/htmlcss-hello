@@ -9,3 +9,15 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
+
+.intro{
+    margin: auto;
+    text-align: center;
+    width: 40%;
+}
+
+.p1{
+    font-size: 40px;
+    text-align: center;
+    color: rgba(199, 174, 157, 0.95)
+}
