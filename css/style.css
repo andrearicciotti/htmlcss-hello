@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1435075/pexels-photo-1435075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+}
+
+h1{
+    color: rgba(157, 68, 12, 0.45);
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
